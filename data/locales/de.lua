@@ -43,7 +43,7 @@ return {
 	['weapon_broken'] = "Diese Waffe ist kaputt",
 	['vehicle_locked'] = "Das Fahrzeug ist verriegelt",
 	['nobody_nearby'] = "Niemand ist in deiner Nähe",
-	['give_amount'] = "Trage die Anzahl ein die du geben möchtest",
+	['give_amount'] = "Trage die Anzahl ein die du übergeben möchtest",
 	['buy_amount'] = "Trage die Anzahl ein die du kaufen möchtest",
 	['component_has'] = "Diese Waffe hat bereits ein/e %s",
 	['component_invalid'] = "Diese Waffe ist nicht kompatibel mit einem %s",
